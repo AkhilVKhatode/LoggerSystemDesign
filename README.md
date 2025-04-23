@@ -37,8 +37,6 @@ console_logger.log_message(ERROR, "This is an error information.")
 Console::Logger: This is an information.
 File::Logger: This is an information.
 Console::Logger: This is a debug level information.
-File::Logger: This is a debug level information.
-Error::Logger: This is a debug level information.
 Console::Logger: This is an error information.
 File::Logger: This is an error information.
 Error::Logger: This is an error information.
